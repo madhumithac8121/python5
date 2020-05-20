@@ -1,0 +1,3 @@
+R = Float(input("Input the radius of the Circle"))
+A = 3.14*R*R
+print("Are of the Circle is",A)
